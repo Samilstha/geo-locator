@@ -73,7 +73,7 @@ export default function Home() {
           Geo Locator is an open-source and free to play alternative to the game
           Geoguessr.
           <br />
-          To play you need to guess the location of the real time images ancd get cpoints according tho the guesses.
+          To play you need to guess the location of the real tidme images ancd get cpoints according tho the guesses.
         </p>
       </div>
       <div>
